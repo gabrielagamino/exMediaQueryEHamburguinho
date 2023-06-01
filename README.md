@@ -6,3 +6,7 @@ Foi usado HTML, CSS e um pouco de Javascript (duas funções apenas).
 
 Feito em aula com o professor Gustavo Guanabara (Curso em Vídeo).
 Como é um exercício que gostei muito do resultado e que posso vir a precisar conferir como fiz no futuro, achei legal deixar no repositório.
+
+Hospedado no Github Pages:
+
+https://gabrielagamino.github.io/exMediaQueryEHamburguinho/
